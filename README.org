@@ -1,20 +1,21 @@
 #+html:<img align="right" alt="CFEngine Build Module" src="./media/CFEngine_Build_Logo.png">
+#+html:<a href=#license><img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfbs-module-template"></a>
 #+title: <module-name>
 
 * Table of Contents :TOC:
 - [[#synopsis][Synopsis]]
 - [[#provides][Provides]]
-- [[#configuration][Configuration]]
 - [[#installation][Installation]]
+- [[#usage][Usage]]
 - [[#contributing][Contributing]]
 - [[#license][License]]
 
 * Synopsis
-#+html:<a href=#license><img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfbs-module-template"></a>
 - *Name*: =<module-name>=
 - *Version*: ==
 * Provides
-* Configuration
 * Installation
+* Usage
 * Contributing
 * License
+The  <module-name> cfbs module is licensed under the terms of the MIT license 
