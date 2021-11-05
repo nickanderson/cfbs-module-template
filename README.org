@@ -1,4 +1,4 @@
-#+html:<img align="right" alt="CFEngine Build Module" src="./media/CFEngine_Build_Logo.png">
+#+html:<a href="https://build.cfengine.com><img align="right" alt="CFEngine Build Module" src="./media/CFEngine_Build_Logo.png"></a>
 #+html:<a href=#license><img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfbs-module-template"></a>
 #+title: <module-name>
 
