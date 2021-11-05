@@ -1,4 +1,4 @@
-#+attr_html: align:right
+#+attr_html: :style float:right
 [[./media/CFEngine_Build_Logo.png]]
 
 #+title: <module-name>
