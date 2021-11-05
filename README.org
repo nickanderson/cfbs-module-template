@@ -1,0 +1,10 @@
+[[./media/CFEngine Build_logo.png]]
+#+:title <module-name>
+* Synopsis
+- *Name*: =<module-name>=
+- *Version*: ==
+* Provides
+* Configuration
+* Installation
+
+* License
