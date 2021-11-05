@@ -1,4 +1,4 @@
-[[./media/CFEngine Build_logo.png]]
+[[./media/CFEngine Build_Logo.png]]
 #+title: <module-name>
 * Synopsis
 - *Name*: =<module-name>=
