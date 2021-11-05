@@ -1,4 +1,4 @@
-#+html:<img align="right" src="./media/CFEngine_Build_Logo.png">
+#+html:<img align="right" alt="CFEngine Build Module" src="./media/CFEngine_Build_Logo.png">
 #+title: <module-name>
 
 * Table of Contents :TOC:
@@ -6,13 +6,15 @@
 - [[#provides][Provides]]
 - [[#configuration][Configuration]]
 - [[#installation][Installation]]
+- [[#contributing][Contributing]]
 - [[#license][License]]
 
 * Synopsis
+#+html:<img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfengine-local_users">
 - *Name*: =<module-name>=
 - *Version*: ==
 * Provides
 * Configuration
 * Installation
-
+* Contributing
 * License
