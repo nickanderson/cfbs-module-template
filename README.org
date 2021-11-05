@@ -1,5 +1,5 @@
 #+html:<a href="https://build.cfengine.com><img align="right" alt="CFEngine Build Module" src="./media/CFEngine_Build_Logo.png"></a>
-#+html:<a href=/#license><img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfbs-module-template"></a>
+#+html:<img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfbs-module-template">
 #+title: <module-name>
 
 * Table of Contents :TOC:
