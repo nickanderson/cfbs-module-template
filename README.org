@@ -10,7 +10,7 @@
 - [[#license][License]]
 
 * Synopsis
-#+html:<img alt="GitHub" src="https://img.shields.io/github/license/nickanderson/cfengine-local_users">
+#+html:<a href=License><img alt="GitHub" src="https://img.shields.io/github/license/<module-author>/<module-name>"></a>
 - *Name*: =<module-name>=
 - *Version*: ==
 * Provides
