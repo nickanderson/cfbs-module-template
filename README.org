@@ -1,7 +1,4 @@
 #+html:<img align="right" src="./media/CFEngine_Build_Logo.png">
-#+attr_html: :style float:right
-[[./media/CFEngine_Build_Logo.png]]
-
 #+title: <module-name>
 * Synopsis
 - *Name*: =<module-name>=
