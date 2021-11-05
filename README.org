@@ -31,7 +31,7 @@ This repository contains a =cfbs.json= which allows the modules in this reposito
 
 ** Add from the main index
 
-The module(s) provided by this repository can be discovered using cfbs search and added by name /if they have been accepted/ into the main CFEngine Build index.
+The module(s) provided by this repository can be discovered using cfbs search and added by name /if they have been accepted/ into the main [[https://github.com/cfengine/build-index][CFEngine Build index]].
 
 #+caption: Search for a module provided by this repo
 #+begin_src sh :results output :exports both
