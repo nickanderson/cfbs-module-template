@@ -1,3 +1,4 @@
+#+attr_html: align:right
 [[./media/CFEngine_Build_Logo.png]]
 
 #+title: <module-name>
