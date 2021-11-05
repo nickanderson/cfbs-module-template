@@ -1,3 +1,4 @@
+#+html:<img align="right" src="./media/CFEngine_Build_Logo.png">
 #+attr_html: :style float:right
 [[./media/CFEngine_Build_Logo.png]]
 
@@ -7,6 +8,9 @@
 - *Version*: ==
 * Provides
 * Configuration
+:PROPERTIES:
+:ID:       162449b4-4ad6-4860-8d77-a15db78d8f36
+:END:
 * Installation
 
 * License
