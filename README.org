@@ -6,6 +6,8 @@
 - [[#synopsis][Synopsis]]
 - [[#provides][Provides]]
 - [[#installation][Installation]]
+  - [[#add-via-repository-url][Add via repository URL]]
+  - [[#add-from-the-main-index][Add from the main index]]
 - [[#usage][Usage]]
 - [[#contributing][Contributing]]
 - [[#license][License]]
@@ -15,7 +17,37 @@
 - *Version*: ==
 * Provides
 * Installation
+
+Integration into your policy set is best accomplished using the ~cfbs~ command line tool, which can be installed via python pip.
+More info about ~cfbs~ can be found in it's [[https://github.com/cfengine/cfbs][github repository]].
+** Add via repository URL
+
+This repository contains a =cfbs.json= which allows the modules in this repository to be added directly by the repository URL.
+
+#+caption: Add modules from this repository by URL
+#+begin_src sh :results output :exports both
+  cfbs add https://github.com/nickanderson/<module-name>
+#+end_src
+
+** Add from the main index
+
+The module(s) provided by this repository can be discovered using cfbs search and added by name if they have been accepted into the main CFEngine Build index.
+
+#+caption: Search for a module provided by this repo
+#+begin_src sh :results output :exports both
+  cfbs search <module-name>
+#+end_src
+
+#+caption: Add modules from this repository by URL
+#+begin_src sh :results output :exports both
+  cfbs add <module-name>
+#+end_src
+
 * Usage
 * Contributing
+
+Contributions are most welcome. Open a Pull Request with your suggested changes.
+
 * License
-The  <module-name> cfbs module is licensed under the terms of the MIT license 
+
+The content in this repository is available under the terms of the [[https://en.wikipedia.org/wiki/MIT_License][MIT license]] unless otherwise specified. See the [[./LICENSE][LICENSE]] file for details.
