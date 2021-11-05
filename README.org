@@ -1,5 +1,5 @@
 [[./media/CFEngine Build_logo.png]]
-#+:title <module-name>
+#+title: <module-name>
 * Synopsis
 - *Name*: =<module-name>=
 - *Version*: ==
